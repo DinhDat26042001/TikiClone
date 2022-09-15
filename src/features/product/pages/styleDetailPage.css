@@ -1,0 +1,10 @@
+.leftt {
+    width: 400px;
+    padding: 12px;
+    border-right: 1px solid gray;
+
+  }
+.rightt{
+    flex: 1 1 0;
+    padding: 12px;
+  }

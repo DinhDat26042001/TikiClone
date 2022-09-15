@@ -1,0 +1,13 @@
+.roott {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 16px 0;
+    list-style-type: none;
+    padding: 0;
+}
+
+.li {
+    margin: 0;
+    padding: 8px;
+}
